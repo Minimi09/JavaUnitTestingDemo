@@ -5,11 +5,13 @@ public class BasicDemo {
   private String demoString;
 
 
-  public String getDemoString() {
+  public String getDemoString()
+  {
     return demoString;
   }
 
-  public void setDemoString(String demoString) {
+  public void setDemoString(String demoString)
+  {
     this.demoString = demoString;
   }
 }
