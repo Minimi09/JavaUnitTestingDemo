@@ -26,4 +26,8 @@ public class CalculatorClass {
         return num1*num2;
     }
 
+    public static class FizzBuzz {
+
+
+    }
 }
